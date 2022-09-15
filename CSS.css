@@ -3,5 +3,5 @@
 body {width: auto; background: #dddddd;}
 .bachg {width: auto; background: #eee; padding: 10px;}
 .title h1 {display: block;margin: 10px 0; padding: 1em auto;}
-header li{display: inline-block;margin: 10px 0;list-style: none; float: left; padding: 0 20%;}
+header li{display: inline-block;margin: 20px 0;list-style: none; float: left; padding: 0 20%;}
 body:active{transform: translate(2em,0)}
